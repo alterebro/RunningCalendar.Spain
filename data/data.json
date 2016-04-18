@@ -2,7 +2,7 @@
     {
         "name": "Valdepe\u00f1as Xtreme Race",
         "date": "23.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160423-valdepe-nas-valdepenas-xtreme-race",
         "distance": 5,
         "distances": 1,
@@ -18,7 +18,7 @@
     {
         "name": "I Prueba 51x13 de La Peza",
         "date": "23.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160423-la-peza-i-prueba-51x13-de-la-peza",
         "distance": 51,
         "distances": 1,
@@ -50,7 +50,7 @@
     {
         "name": "10K Alca\u00f1iz",
         "date": "24.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160424-alcaniz-10k-alcaniz",
         "distance": 10,
         "distances": 1,
@@ -66,7 +66,7 @@
     {
         "name": "Trail Costa de Ajo 2016",
         "date": "24.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160424-ajo-trail-costa-de-ajo-2016",
         "distance": 27,
         "distances": 1,
@@ -82,7 +82,7 @@
     {
         "name": "Cross Parque la Asomadilla 2016",
         "date": "24.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160424-cordoba-cross-parque-la-asomadilla-2016",
         "distance": 6,
         "distances": 1,
@@ -98,7 +98,7 @@
     {
         "name": "Boga Mendi Martxa",
         "date": "24.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160424-ondarroa-boga-mendi-martxa",
         "distance": 48,
         "distances": 1,
@@ -114,7 +114,7 @@
     {
         "name": "IX Carrera Villa Santa Olalla",
         "date": "24.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160424-santa-olalla-ix-carrera-villa-santa-olalla",
         "distance": 6.4,
         "distances": 1,
@@ -130,7 +130,7 @@
     {
         "name": "V Cresta Sierra Carbonera",
         "date": "24.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160424-la-linea-de-la-concepcion-v-cresta-sierra-carbonera",
         "distance": 29,
         "distances": 1,
@@ -146,7 +146,7 @@
     {
         "name": "IV Carrera Vacceos - Cigales",
         "date": "24.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160424-cigales-iv-carrera-vacceos-cigales",
         "distance": 7,
         "distances": 1,
@@ -194,7 +194,7 @@
     {
         "name": "I Trail de Villanueva",
         "date": "30.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160430-villanueva-de-los-castillejos-i-trail-de-villanueva",
         "distance": 20,
         "distances": 1,
@@ -210,7 +210,7 @@
     {
         "name": "IX Carrera de Adra",
         "date": "30.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160430-adra-ix-carrera-de-adra",
         "distance": 10,
         "distances": 1,
@@ -226,7 +226,7 @@
     {
         "name": "XII Cursa de Ses Paparres",
         "date": "30.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160430-son-carrio-mallorca-xii-cursa-de-ses-paparres",
         "distance": 4,
         "distances": 2,
@@ -242,7 +242,7 @@
     {
         "name": "XII Cursa de Ses Paparres",
         "date": "30.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160430-son-carrio-mallorca-xii-cursa-de-ses-paparres",
         "distance": 10,
         "distances": 2,
@@ -258,7 +258,7 @@
     {
         "name": "VIII Carrera Popular San Antonio",
         "date": "30.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160430-villanueva-de-duero-viii-carrera-popular-san-antonio",
         "distance": "",
         "distances": 1,
@@ -274,7 +274,7 @@
     {
         "name": "I Milla Las gabias Respira",
         "date": "30.04.2016",
-        "time": false,
+        "time": "",
         "slug": "160430-las-gabias-i-milla-las-gabias-respira",
         "distance": 1.609,
         "distances": 1,
@@ -370,7 +370,7 @@
     {
         "name": "Survivor Race Alicante",
         "date": "07.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160507-alicante-survivor-race-alicante",
         "distance": 6,
         "distances": 1,
@@ -386,7 +386,7 @@
     {
         "name": "10\/5 milles Ciudad de Ma\u00f3",
         "date": "07.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160507-mahon-menorca-10-5-milles-ciudad-de-mao",
         "distance": 8,
         "distances": 2,
@@ -402,7 +402,7 @@
     {
         "name": "10\/5 milles Ciudad de Ma\u00f3",
         "date": "07.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160507-mahon-menorca-10-5-milles-ciudad-de-mao",
         "distance": 16,
         "distances": 2,
@@ -418,7 +418,7 @@
     {
         "name": "XVIII Ruta de los Marineros",
         "date": "07.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160507-piedras-blancas-xviii-ruta-de-los-marineros",
         "distance": 12,
         "distances": 1,
@@ -514,7 +514,7 @@
     {
         "name": "Wings for Life Run",
         "date": "08.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160508-valencia-wings-for-life-run",
         "distance": 10,
         "distances": 1,
@@ -530,7 +530,7 @@
     {
         "name": "2\u00aa Carrera Popular \"Coraz\u00f3n de la Ribera\"",
         "date": "08.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160508-collbato-2a-carrera-popular-corazon-de-la-ribera",
         "distance": 10,
         "distances": 1,
@@ -546,7 +546,7 @@
     {
         "name": "III Marat\u00f3 de Montserrat",
         "date": "08.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160508-collbato-iii-marato-de-montserrat",
         "distance": 42,
         "distances": 1,
@@ -562,7 +562,7 @@
     {
         "name": "Carrera de Tronos",
         "date": "08.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160508-aranjuez-carrera-de-tronos",
         "distance": 10,
         "distances": 1,
@@ -578,7 +578,7 @@
     {
         "name": "Duatl\u00f3n Villaconejos 4Bikershop",
         "date": "08.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160508-villaconejos-duatlon-villaconejos-4bikershop",
         "distance": "5\/20\/2,5 km",
         "distances": 1,
@@ -594,7 +594,7 @@
     {
         "name": "V Carrera Solidaria PINTO con el S\u00e1hara",
         "date": "08.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160508-pinto-v-carrera-solidaria-pinto-con-el-sahara",
         "distance": 10,
         "distances": 1,
@@ -642,7 +642,7 @@
     {
         "name": "Zeberio Harana Mendi Martxa",
         "date": "14.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160514-zeberio-zeberio-harana-mendi-martxa",
         "distance": 48,
         "distances": 1,
@@ -658,7 +658,7 @@
     {
         "name": "II Circular de Cardones",
         "date": "14.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160514-arucas-ii-circular-de-cardones",
         "distance": 7,
         "distances": 2,
@@ -674,7 +674,7 @@
     {
         "name": "II Circular de Cardones",
         "date": "14.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160514-arucas-ii-circular-de-cardones",
         "distance": 12,
         "distances": 2,
@@ -690,7 +690,7 @@
     {
         "name": "IV Carrera Playa de Salinas",
         "date": "14.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160514-salinas-iv-carrera-playa-de-salinas",
         "distance": 6.2,
         "distances": 1,
@@ -706,7 +706,7 @@
     {
         "name": "III Carrera Gu\u00eda de Isora",
         "date": "14.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160514-guia-de-isora-iii-carrera-guia-de-isora",
         "distance": 5,
         "distances": 2,
@@ -722,7 +722,7 @@
     {
         "name": "III Carrera Gu\u00eda de Isora",
         "date": "14.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160514-guia-de-isora-iii-carrera-guia-de-isora",
         "distance": 10,
         "distances": 2,
@@ -738,7 +738,7 @@
     {
         "name": "XIV Marat\u00f3n Mart\u00edn Fiz",
         "date": "15.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160515-vitoria-gasteiz-xiv-maraton-martin-fiz",
         "distance": 10,
         "distances": 3,
@@ -754,7 +754,7 @@
     {
         "name": "XIV Marat\u00f3n Mart\u00edn Fiz",
         "date": "15.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160515-vitoria-gasteiz-xiv-maraton-martin-fiz",
         "distance": 21,
         "distances": 3,
@@ -770,7 +770,7 @@
     {
         "name": "XIV Marat\u00f3n Mart\u00edn Fiz",
         "date": "15.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160515-vitoria-gasteiz-xiv-maraton-martin-fiz",
         "distance": 42,
         "distances": 3,
@@ -786,7 +786,7 @@
     {
         "name": "V Carrera entre Pinto y Valdemoro",
         "date": "15.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160515-pinto-v-carrera-entre-pinto-y-valdemoro",
         "distance": 14,
         "distances": 1,
@@ -802,7 +802,7 @@
     {
         "name": "II Carrera por Monta\u00f1a Graderas Valle Vi\u00f3",
         "date": "15.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160515-buerba-ii-carrera-por-montana-graderas-valle-vio",
         "distance": 57,
         "distances": 1,
@@ -818,7 +818,7 @@
     {
         "name": "V Compressport Trail Menorca Cam\u00ed de Cavalls",
         "date": "20.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160520-menorca-v-compressport-trail-menorca-cami-de-cavalls",
         "distance": "Varias distancias",
         "distances": 1,
@@ -834,7 +834,7 @@
     {
         "name": "Fonteide Teno Trail",
         "date": "21.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160521-buanavista-del-norte-fonteide-teno-trail",
         "distance": 12,
         "distances": 1,
@@ -850,7 +850,7 @@
     {
         "name": "Correr sin GLU10",
         "date": "22.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160522-las-rozas-correr-sin-glu10",
         "distance": 5,
         "distances": 2,
@@ -866,7 +866,7 @@
     {
         "name": "Correr sin GLU10",
         "date": "22.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160522-las-rozas-correr-sin-glu10",
         "distance": 10,
         "distances": 2,
@@ -882,7 +882,7 @@
     {
         "name": "IX Carrera Liberty",
         "date": "22.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160522-madrid-ix-carrera-liberty",
         "distance": 10,
         "distances": 1,
@@ -898,7 +898,7 @@
     {
         "name": "IV Mineros Trail",
         "date": "22.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160522-cabezarrubias-del-puerto-iv-mineros-trail",
         "distance": 14,
         "distances": 2,
@@ -914,7 +914,7 @@
     {
         "name": "IV Mineros Trail",
         "date": "22.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160522-cabezarrubias-del-puerto-iv-mineros-trail",
         "distance": 26,
         "distances": 2,
@@ -930,7 +930,7 @@
     {
         "name": "VII Animal Trail",
         "date": "22.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160522-el-burgo-vii-animal-trail",
         "distance": 11,
         "distances": 4,
@@ -946,7 +946,7 @@
     {
         "name": "VII Animal Trail",
         "date": "22.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160522-el-burgo-vii-animal-trail",
         "distance": 26,
         "distances": 4,
@@ -962,7 +962,7 @@
     {
         "name": "VII Animal Trail",
         "date": "22.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160522-el-burgo-vii-animal-trail",
         "distance": 39,
         "distances": 4,
@@ -978,7 +978,7 @@
     {
         "name": "VII Animal Trail",
         "date": "22.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160522-el-burgo-vii-animal-trail",
         "distance": 56,
         "distances": 4,
@@ -1026,7 +1026,7 @@
     {
         "name": "3a Cursa Popular El Masnou",
         "date": "29.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160529-el-masnou-3a-cursa-popular-el-masnou",
         "distance": 5,
         "distances": 1,
@@ -1042,7 +1042,7 @@
     {
         "name": "Carrera Renault Street Run Valencia",
         "date": "29.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160529-valencia-carrera-renault-street-run-valencia",
         "distance": 5,
         "distances": 2,
@@ -1058,7 +1058,7 @@
     {
         "name": "Carrera Renault Street Run Valencia",
         "date": "29.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160529-valencia-carrera-renault-street-run-valencia",
         "distance": 10,
         "distances": 2,
@@ -1074,7 +1074,7 @@
     {
         "name": "II Triatl\u00f3n Ciudad de Guadix",
         "date": "29.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160529-guadix-ii-triatlon-ciudad-de-guadix",
         "distance": "750 m\/25 km\/5 km",
         "distances": 1,
@@ -1154,7 +1154,7 @@
     {
         "name": "VIII Formentera to Run",
         "date": "30.05.2016",
-        "time": false,
+        "time": "",
         "slug": "160530-formentera-viii-formentera-to-run",
         "distance": "Varias distancias",
         "distances": 1,
@@ -1170,7 +1170,7 @@
     {
         "name": "III Medio Marat\u00f3n de Trail de Formentera",
         "date": "04.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160604-formentera-iii-medio-maraton-de-trail-de-formentera",
         "distance": 21,
         "distances": 1,
@@ -1186,7 +1186,7 @@
     {
         "name": "RIAZA Trail Challenge",
         "date": "04.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160604-riaza-riaza-trail-challenge",
         "distance": 11,
         "distances": 4,
@@ -1202,7 +1202,7 @@
     {
         "name": "RIAZA Trail Challenge",
         "date": "04.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160604-riaza-riaza-trail-challenge",
         "distance": 20,
         "distances": 4,
@@ -1218,7 +1218,7 @@
     {
         "name": "RIAZA Trail Challenge",
         "date": "04.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160604-riaza-riaza-trail-challenge",
         "distance": 40,
         "distances": 4,
@@ -1234,7 +1234,7 @@
     {
         "name": "RIAZA Trail Challenge",
         "date": "04.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160604-riaza-riaza-trail-challenge",
         "distance": 60,
         "distances": 4,
@@ -1250,7 +1250,7 @@
     {
         "name": "VI Carrera de Monta\u00f1a Pico Zapatero",
         "date": "05.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160605-sotalbo-vi-carrera-de-montana-pico-zapatero",
         "distance": 22,
         "distances": 1,
@@ -1266,7 +1266,7 @@
     {
         "name": "Carrera del Medio Ambiente ECORUN 2016",
         "date": "05.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160605-madrid-carrera-del-medio-ambiente-ecorun-2016",
         "distance": 5,
         "distances": 2,
@@ -1282,7 +1282,7 @@
     {
         "name": "Carrera del Medio Ambiente ECORUN 2016",
         "date": "05.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160605-madrid-carrera-del-medio-ambiente-ecorun-2016",
         "distance": 10,
         "distances": 2,
@@ -1330,7 +1330,7 @@
     {
         "name": "VII Carrera Popular de La Cabrera",
         "date": "11.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160611-la-cabrera-vii-carrera-popular-de-la-cabrera",
         "distance": 5,
         "distances": 2,
@@ -1346,7 +1346,7 @@
     {
         "name": "VII Carrera Popular de La Cabrera",
         "date": "11.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160611-la-cabrera-vii-carrera-popular-de-la-cabrera",
         "distance": 15,
         "distances": 2,
@@ -1362,7 +1362,7 @@
     {
         "name": "Carrera Renault Street Run Palma de Mallorca",
         "date": "11.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160611-palma-de-mallorca-carrera-renault-street-run-palma-de-mallorca",
         "distance": 5,
         "distances": 2,
@@ -1378,7 +1378,7 @@
     {
         "name": "Carrera Renault Street Run Palma de Mallorca",
         "date": "11.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160611-palma-de-mallorca-carrera-renault-street-run-palma-de-mallorca",
         "distance": 10,
         "distances": 2,
@@ -1474,7 +1474,7 @@
     {
         "name": "10K Avil\u00e9s 2016",
         "date": "18.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160618-aviles-10k-aviles-2016",
         "distance": 10,
         "distances": 1,
@@ -1490,7 +1490,7 @@
     {
         "name": "III EDP San FERM\u00cdN Marathon",
         "date": "18.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160618-pamplona-iii-edp-san-fermin-marathon",
         "distance": 21,
         "distances": 2,
@@ -1506,7 +1506,7 @@
     {
         "name": "III EDP San FERM\u00cdN Marathon",
         "date": "18.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160618-pamplona-iii-edp-san-fermin-marathon",
         "distance": 41,
         "distances": 2,
@@ -1522,7 +1522,7 @@
     {
         "name": "Lanzarote Winerun 2016",
         "date": "19.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160619-la-geria-lanzarote-winerun-2016",
         "distance": "Varias distancias",
         "distances": 1,
@@ -1554,7 +1554,7 @@
     {
         "name": "Kosta Trail 2016",
         "date": "21.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160621-sopela-kosta-trail-2016",
         "distance": 10,
         "distances": 3,
@@ -1570,7 +1570,7 @@
     {
         "name": "Kosta Trail 2016",
         "date": "21.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160621-sopela-kosta-trail-2016",
         "distance": 20,
         "distances": 3,
@@ -1586,7 +1586,7 @@
     {
         "name": "Kosta Trail 2016",
         "date": "21.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160621-sopela-kosta-trail-2016",
         "distance": 30,
         "distances": 3,
@@ -1602,7 +1602,7 @@
     {
         "name": "Km vertical Brieva de Cameros",
         "date": "25.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160625-brieva-de-cameros-km-vertical-brieva-de-cameros",
         "distance": "Varias distancias",
         "distances": 1,
@@ -1618,7 +1618,7 @@
     {
         "name": "Media Marat\u00f3n de Monta\u00f1a Brieva de Cameros",
         "date": "26.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160626-brieva-de-cameros-media-maraton-de-montana-brieva-de-cameros",
         "distance": 21,
         "distances": 1,
@@ -1634,7 +1634,7 @@
     {
         "name": "Carrera Renault Street Run Oviedo",
         "date": "26.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160626-oviedo-carrera-renault-street-run-oviedo",
         "distance": 5,
         "distances": 2,
@@ -1650,7 +1650,7 @@
     {
         "name": "Carrera Renault Street Run Oviedo",
         "date": "26.06.2016",
-        "time": false,
+        "time": "",
         "slug": "160626-oviedo-carrera-renault-street-run-oviedo",
         "distance": 10,
         "distances": 2,
@@ -1666,7 +1666,7 @@
     {
         "name": "Zaragoza 111",
         "date": "06.07.2016",
-        "time": false,
+        "time": "",
         "slug": "160706-belchite-zaragoza-111",
         "distance": "Varias distancias",
         "distances": 1,
@@ -1682,7 +1682,7 @@
     {
         "name": "Zaragoza 111",
         "date": "07.07.2016",
-        "time": false,
+        "time": "",
         "slug": "160707-zaragoza-zaragoza-111",
         "distance": "Varias distancias",
         "distances": 1,
@@ -1698,7 +1698,7 @@
     {
         "name": "X Carrera San Lorenzo Rock and Run 2016",
         "date": "16.07.2016",
-        "time": false,
+        "time": "",
         "slug": "160716-san-lorenzo-de-el-escorial-x-carrera-san-lorenzo-rock-and-run-2016",
         "distance": 7.77,
         "distances": 1,
@@ -1714,7 +1714,7 @@
     {
         "name": "Ultra del Nordeste",
         "date": "30.07.2016",
-        "time": false,
+        "time": "",
         "slug": "160730-anaga-ultra-del-nordeste",
         "distance": 3,
         "distances": 3,
@@ -1730,7 +1730,7 @@
     {
         "name": "Ultra del Nordeste",
         "date": "30.07.2016",
-        "time": false,
+        "time": "",
         "slug": "160730-anaga-ultra-del-nordeste",
         "distance": 30,
         "distances": 3,
@@ -1746,7 +1746,7 @@
     {
         "name": "Ultra del Nordeste",
         "date": "30.07.2016",
-        "time": false,
+        "time": "",
         "slug": "160730-anaga-ultra-del-nordeste",
         "distance": 90,
         "distances": 3,
@@ -1762,7 +1762,7 @@
     {
         "name": "VII Cross Villa de Figueras",
         "date": "21.08.2016",
-        "time": false,
+        "time": "",
         "slug": "160821-figueras-vii-cross-villa-de-figueras",
         "distance": 10,
         "distances": 1,
@@ -1778,7 +1778,7 @@
     {
         "name": "X Canfranc-Canfranc",
         "date": "09.09.2016",
-        "time": false,
+        "time": "",
         "slug": "160909-canfranc-x-canfranc-canfranc",
         "distance": 18,
         "distances": 4,
@@ -1794,7 +1794,7 @@
     {
         "name": "X Canfranc-Canfranc",
         "date": "09.09.2016",
-        "time": false,
+        "time": "",
         "slug": "160909-canfranc-x-canfranc-canfranc",
         "distance": 45,
         "distances": 4,
@@ -1810,7 +1810,7 @@
     {
         "name": "X Canfranc-Canfranc",
         "date": "09.09.2016",
-        "time": false,
+        "time": "",
         "slug": "160909-canfranc-x-canfranc-canfranc",
         "distance": 80,
         "distances": 4,
@@ -1826,7 +1826,7 @@
     {
         "name": "X Canfranc-Canfranc",
         "date": "09.09.2016",
-        "time": false,
+        "time": "",
         "slug": "160909-canfranc-x-canfranc-canfranc",
         "distance": 100,
         "distances": 4,
@@ -1858,7 +1858,7 @@
     {
         "name": "Carrera Renault Street Run BCN",
         "date": "22.10.2016",
-        "time": false,
+        "time": "",
         "slug": "161022-esplugas-de-llobregat-carrera-renault-street-run-bcn",
         "distance": 5,
         "distances": 2,
@@ -1874,7 +1874,7 @@
     {
         "name": "Carrera Renault Street Run BCN",
         "date": "22.10.2016",
-        "time": false,
+        "time": "",
         "slug": "161022-esplugas-de-llobregat-carrera-renault-street-run-bcn",
         "distance": 10,
         "distances": 2,
@@ -1906,7 +1906,7 @@
     {
         "name": "Carrera Renault Street Run Madrid",
         "date": "30.10.2016",
-        "time": false,
+        "time": "",
         "slug": "161030-madrid-carrera-renault-street-run-madrid",
         "distance": 5,
         "distances": 2,
@@ -1922,7 +1922,7 @@
     {
         "name": "Carrera Renault Street Run Madrid",
         "date": "30.10.2016",
-        "time": false,
+        "time": "",
         "slug": "161030-madrid-carrera-renault-street-run-madrid",
         "distance": 10,
         "distances": 2,
@@ -1938,7 +1938,7 @@
     {
         "name": "Carrera de Pe\u00f1alara",
         "date": "17.11.2016",
-        "time": false,
+        "time": "",
         "slug": "161117-cercedilla-penalara-carrera",
         "distance": 14.5,
         "distances": 1,
