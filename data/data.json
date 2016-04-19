@@ -6,7 +6,7 @@
             "day": "23",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160423"
+            "yymmdd": "160423"
         },
         "time": "",
         "slug": "160423-valdepe-nas-valdepenas-xtreme-race",
@@ -28,7 +28,7 @@
             "day": "23",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160423"
+            "yymmdd": "160423"
         },
         "time": "",
         "slug": "160423-la-peza-i-prueba-51x13-de-la-peza",
@@ -44,13 +44,35 @@
         "description": ""
     },
     {
+        "name": "VII Cros de la Policia Municipal",
+        "date": "23.04.2016",
+        "date_": {
+            "day": "23",
+            "month": "4",
+            "year": "16",
+            "yymmdd": "160423"
+        },
+        "time": "",
+        "slug": "160423-valladolid-vii-cros-de-la-policia-municipal",
+        "distance": 8,
+        "distances": 1,
+        "address": "",
+        "location": "Valladolid",
+        "province": "Valladolid",
+        "region": "Castilla y Le\u00f3n",
+        "web": "http:\/\/www.runvasport.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "Challenge Fuerteventura 2016",
         "date": "23.04.2016",
         "date_": {
             "day": "23",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160423"
+            "yymmdd": "160423"
         },
         "time": "06:00",
         "slug": "160423-fuerteventura-challenge-fuerteventura-2016",
@@ -72,7 +94,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160424"
+            "yymmdd": "160424"
         },
         "time": "",
         "slug": "160424-alcaniz-10k-alcaniz",
@@ -94,7 +116,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160424"
+            "yymmdd": "160424"
         },
         "time": "",
         "slug": "160424-ajo-trail-costa-de-ajo-2016",
@@ -116,7 +138,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160424"
+            "yymmdd": "160424"
         },
         "time": "",
         "slug": "160424-cordoba-cross-parque-la-asomadilla-2016",
@@ -138,7 +160,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160424"
+            "yymmdd": "160424"
         },
         "time": "",
         "slug": "160424-ondarroa-boga-mendi-martxa",
@@ -160,7 +182,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160424"
+            "yymmdd": "160424"
         },
         "time": "",
         "slug": "160424-santa-olalla-ix-carrera-villa-santa-olalla",
@@ -182,7 +204,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160424"
+            "yymmdd": "160424"
         },
         "time": "",
         "slug": "160424-la-linea-de-la-concepcion-v-cresta-sierra-carbonera",
@@ -204,7 +226,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160424"
+            "yymmdd": "160424"
         },
         "time": "",
         "slug": "160424-cigales-iv-carrera-vacceos-cigales",
@@ -226,7 +248,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160424"
+            "yymmdd": "160424"
         },
         "time": "09:00",
         "slug": "160424-santander-imagym-half-marathon",
@@ -248,7 +270,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160424"
+            "yymmdd": "160424"
         },
         "time": "10:00",
         "slug": "160424-bilbao-xxii-medio-maraton-bilbao",
@@ -270,7 +292,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160430"
+            "yymmdd": "160430"
         },
         "time": "",
         "slug": "160430-villanueva-de-los-castillejos-i-trail-de-villanueva",
@@ -292,7 +314,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160430"
+            "yymmdd": "160430"
         },
         "time": "",
         "slug": "160430-adra-ix-carrera-de-adra",
@@ -314,7 +336,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160430"
+            "yymmdd": "160430"
         },
         "time": "",
         "slug": "160430-son-carrio-mallorca-xii-cursa-de-ses-paparres",
@@ -336,7 +358,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160430"
+            "yymmdd": "160430"
         },
         "time": "",
         "slug": "160430-son-carrio-mallorca-xii-cursa-de-ses-paparres",
@@ -358,7 +380,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160430"
+            "yymmdd": "160430"
         },
         "time": "",
         "slug": "160430-villanueva-de-duero-viii-carrera-popular-san-antonio",
@@ -380,7 +402,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160430"
+            "yymmdd": "160430"
         },
         "time": "",
         "slug": "160430-las-gabias-i-milla-las-gabias-respira",
@@ -402,7 +424,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160430"
+            "yymmdd": "160430"
         },
         "time": "18:00",
         "slug": "160430-ontinyent-10k-solidari-abencerraje-ciutat-d-ontinyent",
@@ -424,7 +446,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
-            "yyyymmdd": "160430"
+            "yymmdd": "160430"
         },
         "time": "18:00",
         "slug": "160430-la-torre-de-esteban-hambran-4-millas-por-la-torre",
@@ -446,7 +468,7 @@
             "day": "1",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160501"
+            "yymmdd": "160501"
         },
         "time": "10:00",
         "slug": "160501-ibiza-media-maraton-de-ibiza-2016",
@@ -468,7 +490,7 @@
             "day": "1",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160501"
+            "yymmdd": "160501"
         },
         "time": "10:00",
         "slug": "160501-ibiza-media-maraton-de-ibiza-2016",
@@ -490,7 +512,7 @@
             "day": "1",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160501"
+            "yymmdd": "160501"
         },
         "time": "10:30",
         "slug": "160501-san-sebastian-de-los-reyes-festirun-san-sebastian-de-los-reyes",
@@ -512,7 +534,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160507"
+            "yymmdd": "160507"
         },
         "time": "",
         "slug": "160507-alicante-survivor-race-alicante",
@@ -534,7 +556,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160507"
+            "yymmdd": "160507"
         },
         "time": "",
         "slug": "160507-mahon-menorca-10-5-milles-ciudad-de-mao",
@@ -556,7 +578,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160507"
+            "yymmdd": "160507"
         },
         "time": "",
         "slug": "160507-mahon-menorca-10-5-milles-ciudad-de-mao",
@@ -578,7 +600,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160507"
+            "yymmdd": "160507"
         },
         "time": "",
         "slug": "160507-piedras-blancas-xviii-ruta-de-los-marineros",
@@ -600,7 +622,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160507"
+            "yymmdd": "160507"
         },
         "time": "08:00",
         "slug": "160507-fuencaliente-de-la-palma-transvulcania-2016",
@@ -622,7 +644,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160507"
+            "yymmdd": "160507"
         },
         "time": "08:00",
         "slug": "160507-fuencaliente-de-la-palma-transvulcania-2016",
@@ -644,7 +666,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160507"
+            "yymmdd": "160507"
         },
         "time": "08:00",
         "slug": "160507-fuencaliente-de-la-palma-transvulcania-2016",
@@ -666,7 +688,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160507"
+            "yymmdd": "160507"
         },
         "time": "08:00",
         "slug": "160507-fuencaliente-de-la-palma-transvulcania-2016",
@@ -688,7 +710,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160507"
+            "yymmdd": "160507"
         },
         "time": "22:00",
         "slug": "160507-modubar-v-nocturna-de-modubar",
@@ -710,7 +732,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160508"
+            "yymmdd": "160508"
         },
         "time": "",
         "slug": "160508-valencia-wings-for-life-run",
@@ -732,7 +754,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160508"
+            "yymmdd": "160508"
         },
         "time": "",
         "slug": "160508-collbato-2a-carrera-popular-corazon-de-la-ribera",
@@ -754,7 +776,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160508"
+            "yymmdd": "160508"
         },
         "time": "",
         "slug": "160508-collbato-iii-marato-de-montserrat",
@@ -776,7 +798,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160508"
+            "yymmdd": "160508"
         },
         "time": "",
         "slug": "160508-aranjuez-carrera-de-tronos",
@@ -798,7 +820,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160508"
+            "yymmdd": "160508"
         },
         "time": "",
         "slug": "160508-villaconejos-duatlon-villaconejos-4bikershop",
@@ -820,7 +842,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160508"
+            "yymmdd": "160508"
         },
         "time": "",
         "slug": "160508-pinto-v-carrera-solidaria-pinto-con-el-sahara",
@@ -842,7 +864,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160508"
+            "yymmdd": "160508"
         },
         "time": "11:00",
         "slug": "160508-villaverde-de-medina-1a-carrera-popular-de-villaverde-de-medina",
@@ -864,7 +886,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160508"
+            "yymmdd": "160508"
         },
         "time": "11:00",
         "slug": "160508-villaverde-de-medina-1a-carrera-popular-de-villaverde-de-medina",
@@ -886,7 +908,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160514"
+            "yymmdd": "160514"
         },
         "time": "",
         "slug": "160514-zeberio-zeberio-harana-mendi-martxa",
@@ -908,7 +930,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160514"
+            "yymmdd": "160514"
         },
         "time": "",
         "slug": "160514-arucas-ii-circular-de-cardones",
@@ -930,7 +952,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160514"
+            "yymmdd": "160514"
         },
         "time": "",
         "slug": "160514-arucas-ii-circular-de-cardones",
@@ -952,7 +974,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160514"
+            "yymmdd": "160514"
         },
         "time": "",
         "slug": "160514-salinas-iv-carrera-playa-de-salinas",
@@ -974,7 +996,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160514"
+            "yymmdd": "160514"
         },
         "time": "",
         "slug": "160514-guia-de-isora-iii-carrera-guia-de-isora",
@@ -996,7 +1018,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160514"
+            "yymmdd": "160514"
         },
         "time": "",
         "slug": "160514-guia-de-isora-iii-carrera-guia-de-isora",
@@ -1018,7 +1040,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160515"
+            "yymmdd": "160515"
         },
         "time": "",
         "slug": "160515-vitoria-gasteiz-xiv-maraton-martin-fiz",
@@ -1040,7 +1062,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160515"
+            "yymmdd": "160515"
         },
         "time": "",
         "slug": "160515-vitoria-gasteiz-xiv-maraton-martin-fiz",
@@ -1062,7 +1084,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160515"
+            "yymmdd": "160515"
         },
         "time": "",
         "slug": "160515-vitoria-gasteiz-xiv-maraton-martin-fiz",
@@ -1084,7 +1106,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160515"
+            "yymmdd": "160515"
         },
         "time": "",
         "slug": "160515-pinto-v-carrera-entre-pinto-y-valdemoro",
@@ -1106,7 +1128,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160515"
+            "yymmdd": "160515"
         },
         "time": "",
         "slug": "160515-buerba-ii-carrera-por-montana-graderas-valle-vio",
@@ -1128,7 +1150,7 @@
             "day": "20",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160520"
+            "yymmdd": "160520"
         },
         "time": "",
         "slug": "160520-menorca-v-compressport-trail-menorca-cami-de-cavalls",
@@ -1150,7 +1172,7 @@
             "day": "21",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160521"
+            "yymmdd": "160521"
         },
         "time": "",
         "slug": "160521-buanavista-del-norte-fonteide-teno-trail",
@@ -1172,7 +1194,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "",
         "slug": "160522-las-rozas-correr-sin-glu10",
@@ -1194,7 +1216,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "",
         "slug": "160522-las-rozas-correr-sin-glu10",
@@ -1216,7 +1238,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "",
         "slug": "160522-madrid-ix-carrera-liberty",
@@ -1238,7 +1260,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "",
         "slug": "160522-cabezarrubias-del-puerto-iv-mineros-trail",
@@ -1260,7 +1282,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "",
         "slug": "160522-cabezarrubias-del-puerto-iv-mineros-trail",
@@ -1282,7 +1304,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "",
         "slug": "160522-el-burgo-vii-animal-trail",
@@ -1304,7 +1326,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "",
         "slug": "160522-el-burgo-vii-animal-trail",
@@ -1326,7 +1348,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "",
         "slug": "160522-el-burgo-vii-animal-trail",
@@ -1348,7 +1370,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "",
         "slug": "160522-el-burgo-vii-animal-trail",
@@ -1370,7 +1392,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "10:00",
         "slug": "160522-elche-festirun-elche",
@@ -1392,7 +1414,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160522"
+            "yymmdd": "160522"
         },
         "time": "10:00",
         "slug": "160522-algemesi-iii-carrera-contra-la-malaltia-de-crohn-i",
@@ -1408,13 +1430,35 @@
         "description": ""
     },
     {
+        "name": "4\u00aa Carrera Popular del \"Esparrago\"",
+        "date": "22.05.2016",
+        "date_": {
+            "day": "22",
+            "month": "5",
+            "year": "16",
+            "yymmdd": "160522"
+        },
+        "time": "10:30",
+        "slug": "160522-tudela-de-duero-4a-carrera-popular-del-esparrago",
+        "distance": 7,
+        "distances": 1,
+        "address": "C\/ Traves\u00eda de Fuentes",
+        "location": "Tudela de Duero",
+        "province": "Valladolid",
+        "region": "Castilla y Le\u00f3n",
+        "web": "http:\/\/www.runvasport.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "3a Cursa Popular El Masnou",
         "date": "29.05.2016",
         "date_": {
             "day": "29",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160529"
+            "yymmdd": "160529"
         },
         "time": "",
         "slug": "160529-el-masnou-3a-cursa-popular-el-masnou",
@@ -1436,7 +1480,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160529"
+            "yymmdd": "160529"
         },
         "time": "",
         "slug": "160529-valencia-carrera-renault-street-run-valencia",
@@ -1458,7 +1502,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160529"
+            "yymmdd": "160529"
         },
         "time": "",
         "slug": "160529-valencia-carrera-renault-street-run-valencia",
@@ -1480,7 +1524,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160529"
+            "yymmdd": "160529"
         },
         "time": "",
         "slug": "160529-guadix-ii-triatlon-ciudad-de-guadix",
@@ -1502,7 +1546,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160529"
+            "yymmdd": "160529"
         },
         "time": "09:00",
         "slug": "160529-madrid-37a-carrera-del-agua",
@@ -1524,7 +1568,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160529"
+            "yymmdd": "160529"
         },
         "time": "09:00",
         "slug": "160529-madrid-37a-carrera-del-agua",
@@ -1546,7 +1590,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160529"
+            "yymmdd": "160529"
         },
         "time": "10:00",
         "slug": "160529-valverde-del-camino-wild-world-race",
@@ -1568,7 +1612,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160529"
+            "yymmdd": "160529"
         },
         "time": "10:30",
         "slug": "160529-mostoles-festirun-mostoles",
@@ -1590,7 +1634,7 @@
             "day": "30",
             "month": "5",
             "year": "16",
-            "yyyymmdd": "160530"
+            "yymmdd": "160530"
         },
         "time": "",
         "slug": "160530-formentera-viii-formentera-to-run",
@@ -1612,7 +1656,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160604"
+            "yymmdd": "160604"
         },
         "time": "",
         "slug": "160604-formentera-iii-medio-maraton-de-trail-de-formentera",
@@ -1634,7 +1678,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160604"
+            "yymmdd": "160604"
         },
         "time": "",
         "slug": "160604-riaza-riaza-trail-challenge",
@@ -1656,7 +1700,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160604"
+            "yymmdd": "160604"
         },
         "time": "",
         "slug": "160604-riaza-riaza-trail-challenge",
@@ -1678,7 +1722,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160604"
+            "yymmdd": "160604"
         },
         "time": "",
         "slug": "160604-riaza-riaza-trail-challenge",
@@ -1700,7 +1744,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160604"
+            "yymmdd": "160604"
         },
         "time": "",
         "slug": "160604-riaza-riaza-trail-challenge",
@@ -1722,7 +1766,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160605"
+            "yymmdd": "160605"
         },
         "time": "",
         "slug": "160605-sotalbo-vi-carrera-de-montana-pico-zapatero",
@@ -1744,7 +1788,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160605"
+            "yymmdd": "160605"
         },
         "time": "",
         "slug": "160605-madrid-carrera-del-medio-ambiente-ecorun-2016",
@@ -1766,7 +1810,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160605"
+            "yymmdd": "160605"
         },
         "time": "",
         "slug": "160605-madrid-carrera-del-medio-ambiente-ecorun-2016",
@@ -1782,13 +1826,35 @@
         "description": ""
     },
     {
+        "name": "XXV Carrera urbana de Carabanchel",
+        "date": "05.06.2016",
+        "date_": {
+            "day": "5",
+            "month": "6",
+            "year": "16",
+            "yymmdd": "160605"
+        },
+        "time": "",
+        "slug": "160605-carabanchel-xxv-carrera-urbana-de-carabanchel",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Carabanchel",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "http:\/\/www.ingrunforunicef.es",
+        "phone": "913982165",
+        "organizer": "A.D MARATHON y YOU FIRST SPORTS",
+        "description": "El precio de la inscripci\u00f3n es de 10 \u20ac.<br>"
+    },
+    {
         "name": "Corre con Todas tus Fuerzas",
         "date": "05.06.2016",
         "date_": {
             "day": "5",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160605"
+            "yymmdd": "160605"
         },
         "time": "09:00",
         "slug": "160605-madrid-corre-con-todas-tus-fuerzas",
@@ -1810,7 +1876,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160605"
+            "yymmdd": "160605"
         },
         "time": "09:00",
         "slug": "160605-madrid-corre-con-todas-tus-fuerzas",
@@ -1832,7 +1898,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160611"
+            "yymmdd": "160611"
         },
         "time": "",
         "slug": "160611-la-cabrera-vii-carrera-popular-de-la-cabrera",
@@ -1854,7 +1920,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160611"
+            "yymmdd": "160611"
         },
         "time": "",
         "slug": "160611-la-cabrera-vii-carrera-popular-de-la-cabrera",
@@ -1876,7 +1942,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160611"
+            "yymmdd": "160611"
         },
         "time": "",
         "slug": "160611-palma-de-mallorca-carrera-renault-street-run-palma-de-mallorca",
@@ -1898,7 +1964,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160611"
+            "yymmdd": "160611"
         },
         "time": "",
         "slug": "160611-palma-de-mallorca-carrera-renault-street-run-palma-de-mallorca",
@@ -1920,7 +1986,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160611"
+            "yymmdd": "160611"
         },
         "time": "06:00",
         "slug": "160611-los-cristianos-tenerife-blue-trail-2016",
@@ -1942,7 +2008,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160611"
+            "yymmdd": "160611"
         },
         "time": "06:00",
         "slug": "160611-los-cristianos-tenerife-blue-trail-2016",
@@ -1964,7 +2030,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160611"
+            "yymmdd": "160611"
         },
         "time": "06:00",
         "slug": "160611-los-cristianos-tenerife-blue-trail-2016",
@@ -1986,7 +2052,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160611"
+            "yymmdd": "160611"
         },
         "time": "06:00",
         "slug": "160611-los-cristianos-tenerife-blue-trail-2016",
@@ -2008,7 +2074,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160611"
+            "yymmdd": "160611"
         },
         "time": "06:00",
         "slug": "160611-los-cristianos-tenerife-blue-trail-2016",
@@ -2030,7 +2096,7 @@
             "day": "18",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160618"
+            "yymmdd": "160618"
         },
         "time": "",
         "slug": "160618-aviles-10k-aviles-2016",
@@ -2052,7 +2118,7 @@
             "day": "18",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160618"
+            "yymmdd": "160618"
         },
         "time": "",
         "slug": "160618-pamplona-iii-edp-san-fermin-marathon",
@@ -2074,7 +2140,7 @@
             "day": "18",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160618"
+            "yymmdd": "160618"
         },
         "time": "",
         "slug": "160618-pamplona-iii-edp-san-fermin-marathon",
@@ -2096,7 +2162,7 @@
             "day": "19",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160619"
+            "yymmdd": "160619"
         },
         "time": "",
         "slug": "160619-la-geria-lanzarote-winerun-2016",
@@ -2118,7 +2184,7 @@
             "day": "19",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160619"
+            "yymmdd": "160619"
         },
         "time": "09:00",
         "slug": "160619-madrid-vii-carrera-norte-vs-sur",
@@ -2140,7 +2206,7 @@
             "day": "21",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160621"
+            "yymmdd": "160621"
         },
         "time": "",
         "slug": "160621-sopela-kosta-trail-2016",
@@ -2162,7 +2228,7 @@
             "day": "21",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160621"
+            "yymmdd": "160621"
         },
         "time": "",
         "slug": "160621-sopela-kosta-trail-2016",
@@ -2184,7 +2250,7 @@
             "day": "21",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160621"
+            "yymmdd": "160621"
         },
         "time": "",
         "slug": "160621-sopela-kosta-trail-2016",
@@ -2206,7 +2272,7 @@
             "day": "25",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160625"
+            "yymmdd": "160625"
         },
         "time": "",
         "slug": "160625-brieva-de-cameros-km-vertical-brieva-de-cameros",
@@ -2228,7 +2294,7 @@
             "day": "26",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160626"
+            "yymmdd": "160626"
         },
         "time": "",
         "slug": "160626-brieva-de-cameros-media-maraton-de-montana-brieva-de-cameros",
@@ -2250,7 +2316,7 @@
             "day": "26",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160626"
+            "yymmdd": "160626"
         },
         "time": "",
         "slug": "160626-oviedo-carrera-renault-street-run-oviedo",
@@ -2272,7 +2338,7 @@
             "day": "26",
             "month": "6",
             "year": "16",
-            "yyyymmdd": "160626"
+            "yymmdd": "160626"
         },
         "time": "",
         "slug": "160626-oviedo-carrera-renault-street-run-oviedo",
@@ -2294,7 +2360,7 @@
             "day": "6",
             "month": "7",
             "year": "16",
-            "yyyymmdd": "160706"
+            "yymmdd": "160706"
         },
         "time": "",
         "slug": "160706-belchite-zaragoza-111",
@@ -2316,7 +2382,7 @@
             "day": "7",
             "month": "7",
             "year": "16",
-            "yyyymmdd": "160707"
+            "yymmdd": "160707"
         },
         "time": "",
         "slug": "160707-zaragoza-zaragoza-111",
@@ -2338,7 +2404,7 @@
             "day": "16",
             "month": "7",
             "year": "16",
-            "yyyymmdd": "160716"
+            "yymmdd": "160716"
         },
         "time": "",
         "slug": "160716-san-lorenzo-de-el-escorial-x-carrera-san-lorenzo-rock-and-run-2016",
@@ -2360,7 +2426,7 @@
             "day": "30",
             "month": "7",
             "year": "16",
-            "yyyymmdd": "160730"
+            "yymmdd": "160730"
         },
         "time": "",
         "slug": "160730-anaga-ultra-del-nordeste",
@@ -2382,7 +2448,7 @@
             "day": "30",
             "month": "7",
             "year": "16",
-            "yyyymmdd": "160730"
+            "yymmdd": "160730"
         },
         "time": "",
         "slug": "160730-anaga-ultra-del-nordeste",
@@ -2404,7 +2470,7 @@
             "day": "30",
             "month": "7",
             "year": "16",
-            "yyyymmdd": "160730"
+            "yymmdd": "160730"
         },
         "time": "",
         "slug": "160730-anaga-ultra-del-nordeste",
@@ -2426,7 +2492,7 @@
             "day": "21",
             "month": "8",
             "year": "16",
-            "yyyymmdd": "160821"
+            "yymmdd": "160821"
         },
         "time": "",
         "slug": "160821-figueras-vii-cross-villa-de-figueras",
@@ -2448,7 +2514,7 @@
             "day": "9",
             "month": "9",
             "year": "16",
-            "yyyymmdd": "160909"
+            "yymmdd": "160909"
         },
         "time": "",
         "slug": "160909-canfranc-x-canfranc-canfranc",
@@ -2470,7 +2536,7 @@
             "day": "9",
             "month": "9",
             "year": "16",
-            "yyyymmdd": "160909"
+            "yymmdd": "160909"
         },
         "time": "",
         "slug": "160909-canfranc-x-canfranc-canfranc",
@@ -2492,7 +2558,7 @@
             "day": "9",
             "month": "9",
             "year": "16",
-            "yyyymmdd": "160909"
+            "yymmdd": "160909"
         },
         "time": "",
         "slug": "160909-canfranc-x-canfranc-canfranc",
@@ -2514,7 +2580,7 @@
             "day": "9",
             "month": "9",
             "year": "16",
-            "yyyymmdd": "160909"
+            "yymmdd": "160909"
         },
         "time": "",
         "slug": "160909-canfranc-x-canfranc-canfranc",
@@ -2536,7 +2602,7 @@
             "day": "2",
             "month": "10",
             "year": "16",
-            "yyyymmdd": "161002"
+            "yymmdd": "161002"
         },
         "time": "00:10",
         "slug": "161002-la-cabrera-v-trisquel-duatlon-cross-la-cabrera",
@@ -2558,7 +2624,7 @@
             "day": "22",
             "month": "10",
             "year": "16",
-            "yyyymmdd": "161022"
+            "yymmdd": "161022"
         },
         "time": "",
         "slug": "161022-esplugas-de-llobregat-carrera-renault-street-run-bcn",
@@ -2580,7 +2646,7 @@
             "day": "22",
             "month": "10",
             "year": "16",
-            "yyyymmdd": "161022"
+            "yymmdd": "161022"
         },
         "time": "",
         "slug": "161022-esplugas-de-llobregat-carrera-renault-street-run-bcn",
@@ -2602,7 +2668,7 @@
             "day": "24",
             "month": "10",
             "year": "16",
-            "yyyymmdd": "161024"
+            "yymmdd": "161024"
         },
         "time": "08:30",
         "slug": "161024-corralejo-fuerteventura-ii-fuerteventura-to-run-2016",
@@ -2624,7 +2690,7 @@
             "day": "30",
             "month": "10",
             "year": "16",
-            "yyyymmdd": "161030"
+            "yymmdd": "161030"
         },
         "time": "",
         "slug": "161030-madrid-carrera-renault-street-run-madrid",
@@ -2646,7 +2712,7 @@
             "day": "30",
             "month": "10",
             "year": "16",
-            "yyyymmdd": "161030"
+            "yymmdd": "161030"
         },
         "time": "",
         "slug": "161030-madrid-carrera-renault-street-run-madrid",
@@ -2668,7 +2734,7 @@
             "day": "17",
             "month": "11",
             "year": "16",
-            "yyyymmdd": "161117"
+            "yymmdd": "161117"
         },
         "time": "",
         "slug": "161117-cercedilla-penalara-carrera",
