@@ -6,6 +6,7 @@
             "day": "23",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160423"
         },
         "time": "",
@@ -28,6 +29,7 @@
             "day": "23",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160423"
         },
         "time": "",
@@ -50,6 +52,7 @@
             "day": "23",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160423"
         },
         "time": "",
@@ -72,6 +75,7 @@
             "day": "23",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160423"
         },
         "time": "06:00",
@@ -94,6 +98,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160424"
         },
         "time": "",
@@ -116,6 +121,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160424"
         },
         "time": "",
@@ -138,6 +144,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160424"
         },
         "time": "",
@@ -160,6 +167,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160424"
         },
         "time": "",
@@ -182,6 +190,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160424"
         },
         "time": "",
@@ -204,6 +213,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160424"
         },
         "time": "",
@@ -226,6 +236,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160424"
         },
         "time": "",
@@ -248,6 +259,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160424"
         },
         "time": "09:00",
@@ -270,6 +282,7 @@
             "day": "24",
             "month": "4",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160424"
         },
         "time": "10:00",
@@ -292,6 +305,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160430"
         },
         "time": "",
@@ -314,6 +328,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160430"
         },
         "time": "",
@@ -336,6 +351,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160430"
         },
         "time": "",
@@ -358,6 +374,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160430"
         },
         "time": "",
@@ -380,6 +397,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160430"
         },
         "time": "",
@@ -402,6 +420,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160430"
         },
         "time": "",
@@ -424,6 +443,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160430"
         },
         "time": "18:00",
@@ -446,6 +466,7 @@
             "day": "30",
             "month": "4",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160430"
         },
         "time": "18:00",
@@ -468,6 +489,7 @@
             "day": "1",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160501"
         },
         "time": "10:00",
@@ -490,6 +512,7 @@
             "day": "1",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160501"
         },
         "time": "10:00",
@@ -512,6 +535,7 @@
             "day": "1",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160501"
         },
         "time": "10:30",
@@ -534,6 +558,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160507"
         },
         "time": "",
@@ -556,6 +581,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160507"
         },
         "time": "",
@@ -578,6 +604,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160507"
         },
         "time": "",
@@ -600,6 +627,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160507"
         },
         "time": "",
@@ -616,12 +644,59 @@
         "description": ""
     },
     {
+        "name": "Vuelta a La Jarosa 2016",
+        "date": "07.05.2016",
+        "date_": {
+            "day": "7",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160507"
+        },
+        "time": "",
+        "slug": "160507-guadarrama-vuelta-a-la-jarosa-2016",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Guadarrama",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "V Carrera Popular de Valderacete",
+        "date": "07.05.2016",
+        "date_": {
+            "day": "7",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160507"
+        },
+        "time": "",
+        "slug": "160507-valderacete-v-carrera-popular-de-valderacete",
+        "distance": 5.8,
+        "distances": 1,
+        "address": "",
+        "location": "Valderacete",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "Transvulcania 2016",
         "date": "07.05.2016",
         "date_": {
             "day": "7",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160507"
         },
         "time": "08:00",
@@ -644,6 +719,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160507"
         },
         "time": "08:00",
@@ -666,6 +742,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160507"
         },
         "time": "08:00",
@@ -688,6 +765,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160507"
         },
         "time": "08:00",
@@ -710,6 +788,7 @@
             "day": "7",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160507"
         },
         "time": "22:00",
@@ -732,6 +811,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160508"
         },
         "time": "",
@@ -754,6 +834,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160508"
         },
         "time": "",
@@ -776,6 +857,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160508"
         },
         "time": "",
@@ -798,6 +880,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160508"
         },
         "time": "",
@@ -820,6 +903,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160508"
         },
         "time": "",
@@ -842,6 +926,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160508"
         },
         "time": "",
@@ -864,6 +949,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160508"
         },
         "time": "11:00",
@@ -886,6 +972,7 @@
             "day": "8",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160508"
         },
         "time": "11:00",
@@ -908,6 +995,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160514"
         },
         "time": "",
@@ -930,6 +1018,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160514"
         },
         "time": "",
@@ -952,6 +1041,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160514"
         },
         "time": "",
@@ -974,6 +1064,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160514"
         },
         "time": "",
@@ -996,6 +1087,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160514"
         },
         "time": "",
@@ -1018,6 +1110,7 @@
             "day": "14",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160514"
         },
         "time": "",
@@ -1040,6 +1133,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160515"
         },
         "time": "",
@@ -1062,6 +1156,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160515"
         },
         "time": "",
@@ -1084,6 +1179,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160515"
         },
         "time": "",
@@ -1106,6 +1202,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160515"
         },
         "time": "",
@@ -1128,6 +1225,7 @@
             "day": "15",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160515"
         },
         "time": "",
@@ -1150,6 +1248,7 @@
             "day": "20",
             "month": "5",
             "year": "16",
+            "weekday": "5",
             "yymmdd": "160520"
         },
         "time": "",
@@ -1172,6 +1271,7 @@
             "day": "21",
             "month": "5",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160521"
         },
         "time": "",
@@ -1194,6 +1294,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "",
@@ -1216,6 +1317,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "",
@@ -1238,6 +1340,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "",
@@ -1260,6 +1363,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "",
@@ -1282,6 +1386,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "",
@@ -1304,6 +1409,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "",
@@ -1326,6 +1432,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "",
@@ -1348,6 +1455,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "",
@@ -1370,6 +1478,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "",
@@ -1392,6 +1501,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "10:00",
@@ -1414,6 +1524,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "10:00",
@@ -1436,6 +1547,7 @@
             "day": "22",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160522"
         },
         "time": "10:30",
@@ -1458,6 +1570,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160529"
         },
         "time": "",
@@ -1480,6 +1593,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160529"
         },
         "time": "",
@@ -1502,6 +1616,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160529"
         },
         "time": "",
@@ -1524,6 +1639,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160529"
         },
         "time": "",
@@ -1546,6 +1662,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160529"
         },
         "time": "09:00",
@@ -1568,6 +1685,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160529"
         },
         "time": "09:00",
@@ -1590,6 +1708,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160529"
         },
         "time": "10:00",
@@ -1612,6 +1731,7 @@
             "day": "29",
             "month": "5",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160529"
         },
         "time": "10:30",
@@ -1634,6 +1754,7 @@
             "day": "30",
             "month": "5",
             "year": "16",
+            "weekday": "1",
             "yymmdd": "160530"
         },
         "time": "",
@@ -1656,6 +1777,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160604"
         },
         "time": "",
@@ -1678,6 +1800,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160604"
         },
         "time": "",
@@ -1700,6 +1823,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160604"
         },
         "time": "",
@@ -1722,6 +1846,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160604"
         },
         "time": "",
@@ -1744,6 +1869,7 @@
             "day": "4",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160604"
         },
         "time": "",
@@ -1766,6 +1892,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160605"
         },
         "time": "",
@@ -1788,6 +1915,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160605"
         },
         "time": "",
@@ -1810,6 +1938,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160605"
         },
         "time": "",
@@ -1832,6 +1961,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160605"
         },
         "time": "",
@@ -1854,6 +1984,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160605"
         },
         "time": "09:00",
@@ -1876,6 +2007,7 @@
             "day": "5",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160605"
         },
         "time": "09:00",
@@ -1898,6 +2030,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160611"
         },
         "time": "",
@@ -1920,6 +2053,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160611"
         },
         "time": "",
@@ -1942,6 +2076,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160611"
         },
         "time": "",
@@ -1964,6 +2099,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160611"
         },
         "time": "",
@@ -1986,6 +2122,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160611"
         },
         "time": "06:00",
@@ -2008,6 +2145,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160611"
         },
         "time": "06:00",
@@ -2030,6 +2168,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160611"
         },
         "time": "06:00",
@@ -2052,6 +2191,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160611"
         },
         "time": "06:00",
@@ -2074,6 +2214,7 @@
             "day": "11",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160611"
         },
         "time": "06:00",
@@ -2096,6 +2237,7 @@
             "day": "18",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160618"
         },
         "time": "",
@@ -2118,6 +2260,7 @@
             "day": "18",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160618"
         },
         "time": "",
@@ -2140,6 +2283,7 @@
             "day": "18",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160618"
         },
         "time": "",
@@ -2162,6 +2306,7 @@
             "day": "19",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160619"
         },
         "time": "",
@@ -2184,6 +2329,7 @@
             "day": "19",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160619"
         },
         "time": "09:00",
@@ -2206,6 +2352,7 @@
             "day": "21",
             "month": "6",
             "year": "16",
+            "weekday": "2",
             "yymmdd": "160621"
         },
         "time": "",
@@ -2228,6 +2375,7 @@
             "day": "21",
             "month": "6",
             "year": "16",
+            "weekday": "2",
             "yymmdd": "160621"
         },
         "time": "",
@@ -2250,6 +2398,7 @@
             "day": "21",
             "month": "6",
             "year": "16",
+            "weekday": "2",
             "yymmdd": "160621"
         },
         "time": "",
@@ -2272,6 +2421,7 @@
             "day": "25",
             "month": "6",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160625"
         },
         "time": "",
@@ -2294,6 +2444,7 @@
             "day": "26",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160626"
         },
         "time": "",
@@ -2316,6 +2467,7 @@
             "day": "26",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160626"
         },
         "time": "",
@@ -2338,6 +2490,7 @@
             "day": "26",
             "month": "6",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160626"
         },
         "time": "",
@@ -2360,6 +2513,7 @@
             "day": "6",
             "month": "7",
             "year": "16",
+            "weekday": "3",
             "yymmdd": "160706"
         },
         "time": "",
@@ -2382,6 +2536,7 @@
             "day": "7",
             "month": "7",
             "year": "16",
+            "weekday": "4",
             "yymmdd": "160707"
         },
         "time": "",
@@ -2404,6 +2559,7 @@
             "day": "16",
             "month": "7",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160716"
         },
         "time": "",
@@ -2426,6 +2582,7 @@
             "day": "30",
             "month": "7",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160730"
         },
         "time": "",
@@ -2448,6 +2605,7 @@
             "day": "30",
             "month": "7",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160730"
         },
         "time": "",
@@ -2470,6 +2628,7 @@
             "day": "30",
             "month": "7",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160730"
         },
         "time": "",
@@ -2492,6 +2651,7 @@
             "day": "21",
             "month": "8",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "160821"
         },
         "time": "",
@@ -2514,6 +2674,7 @@
             "day": "3",
             "month": "9",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160903"
         },
         "time": "06:00",
@@ -2536,6 +2697,7 @@
             "day": "3",
             "month": "9",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160903"
         },
         "time": "06:00",
@@ -2558,6 +2720,7 @@
             "day": "3",
             "month": "9",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "160903"
         },
         "time": "06:00",
@@ -2580,6 +2743,7 @@
             "day": "9",
             "month": "9",
             "year": "16",
+            "weekday": "5",
             "yymmdd": "160909"
         },
         "time": "",
@@ -2602,6 +2766,7 @@
             "day": "9",
             "month": "9",
             "year": "16",
+            "weekday": "5",
             "yymmdd": "160909"
         },
         "time": "",
@@ -2624,6 +2789,7 @@
             "day": "9",
             "month": "9",
             "year": "16",
+            "weekday": "5",
             "yymmdd": "160909"
         },
         "time": "",
@@ -2646,6 +2812,7 @@
             "day": "9",
             "month": "9",
             "year": "16",
+            "weekday": "5",
             "yymmdd": "160909"
         },
         "time": "",
@@ -2668,6 +2835,7 @@
             "day": "2",
             "month": "10",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "161002"
         },
         "time": "00:10",
@@ -2690,6 +2858,7 @@
             "day": "22",
             "month": "10",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "161022"
         },
         "time": "",
@@ -2712,6 +2881,7 @@
             "day": "22",
             "month": "10",
             "year": "16",
+            "weekday": "6",
             "yymmdd": "161022"
         },
         "time": "",
@@ -2734,6 +2904,7 @@
             "day": "24",
             "month": "10",
             "year": "16",
+            "weekday": "1",
             "yymmdd": "161024"
         },
         "time": "08:30",
@@ -2756,6 +2927,7 @@
             "day": "30",
             "month": "10",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "161030"
         },
         "time": "",
@@ -2778,6 +2950,7 @@
             "day": "30",
             "month": "10",
             "year": "16",
+            "weekday": "7",
             "yymmdd": "161030"
         },
         "time": "",
@@ -2800,6 +2973,7 @@
             "day": "17",
             "month": "11",
             "year": "16",
+            "weekday": "4",
             "yymmdd": "161117"
         },
         "time": "",
