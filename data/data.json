@@ -644,6 +644,29 @@
         "description": ""
     },
     {
+        "name": "Las Cumbrecillas",
+        "date": "07.05.2016",
+        "date_": {
+            "day": "7",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160507"
+        },
+        "time": "",
+        "slug": "160507-robledo-de-chavela-las-cumbrecillas",
+        "distance": 15,
+        "distances": 1,
+        "address": "",
+        "location": "Robledo de Chavela",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "clubkyk.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "Vuelta a La Jarosa 2016",
         "date": "07.05.2016",
         "date_": {
@@ -661,7 +684,7 @@
         "location": "Guadarrama",
         "province": "Madrid",
         "region": "Madrid, Comunidad de",
-        "web": "",
+        "web": "atletismoguadarrama.blogspot.com.es",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -684,7 +707,7 @@
         "location": "Valderacete",
         "province": "Madrid",
         "region": "Madrid, Comunidad de",
-        "web": "",
+        "web": "rockthesport.com",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -777,6 +800,52 @@
         "province": "Santa Cruz de Tenerife",
         "region": "Canarias",
         "web": "http:\/\/www.transvulcania.info",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "10\/5 Millas Ciutat de Mao",
+        "date": "07.05.2016",
+        "date_": {
+            "day": "7",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160507"
+        },
+        "time": "17:30",
+        "slug": "160507-mao-menorca-10-5-millas-ciutat-de-mao",
+        "distance": 8,
+        "distances": 2,
+        "address": "",
+        "location": "Ma\u00f3 (Menorca)",
+        "province": "Balears, Illes",
+        "region": "Balears, Illes",
+        "web": "http:\/\/www.carreramao.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "10\/5 Millas Ciutat de Mao",
+        "date": "07.05.2016",
+        "date_": {
+            "day": "7",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160507"
+        },
+        "time": "17:30",
+        "slug": "160507-mao-menorca-10-5-millas-ciutat-de-mao",
+        "distance": 16,
+        "distances": 2,
+        "address": "",
+        "location": "Ma\u00f3 (Menorca)",
+        "province": "Balears, Illes",
+        "region": "Balears, Illes",
+        "web": "http:\/\/www.carreramao.com",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -941,6 +1010,328 @@
         "phone": "",
         "organizer": "",
         "description": "El precio de la inscripci\u00f3n es de 9,60 \u20ac.<br>"
+    },
+    {
+        "name": "Du Villanueva de la Ca\u00f1ada",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-villanueva-de-la-ca-nada-du-villanueva-de-la-canada",
+        "distance": "4\/15\/2 km",
+        "distances": 1,
+        "address": "",
+        "location": "Villanueva de la Ca\u00f1ada",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "ducrosseries.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera de la Mujer de Madrid 2016",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-madrid-carrera-de-la-mujer-de-madrid-2016",
+        "distance": 7,
+        "distances": 1,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carreradelamujer.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "XXVI Cross Villa de Meco",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-meco-xxvi-cross-villa-de-meco",
+        "distance": 7,
+        "distances": 1,
+        "address": "",
+        "location": "Meco",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "ayto-meco.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera de Tronos",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-aranjuez-carrera-de-tronos",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Aranjuez",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "wingsforsport.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Madrid Tactika Trail 2016",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-lozoyuela-madrid-tactika-trail-2016",
+        "distance": 9,
+        "distances": 2,
+        "address": "",
+        "location": "Lozoyuela",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "tactikatrail.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Madrid Tactika Trail 2016",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-lozoyuela-madrid-tactika-trail-2016",
+        "distance": 25,
+        "distances": 2,
+        "address": "",
+        "location": "Lozoyuela",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "tactikatrail.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Eurorun 2016",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-las-rozas-eurorun-2016",
+        "distance": 5,
+        "distances": 2,
+        "address": "",
+        "location": "Las Rozas",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "lasrozas2016.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Eurorun 2016",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-las-rozas-eurorun-2016",
+        "distance": 10,
+        "distances": 2,
+        "address": "",
+        "location": "Las Rozas",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "lasrozas2016.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "IV Duatl\u00f3n de Mejorada",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-mejorada-del-campo-iv-duatlon-de-mejorada",
+        "distance": "5\/15,4\/2,5 km",
+        "distances": 1,
+        "address": "",
+        "location": "Mejorada del Campo",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "duatlonmejorada.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular RunActiva",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-torres-de-la-alameda-carrera-popular-runactiva",
+        "distance": 5,
+        "distances": 2,
+        "address": "",
+        "location": "Torres de la Alameda",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "runactiva.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular RunActiva",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-torres-de-la-alameda-carrera-popular-runactiva",
+        "distance": 10,
+        "distances": 2,
+        "address": "",
+        "location": "Torres de la Alameda",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "runactiva.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular de San Fernando",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-san-fernando-de-henares-carrera-popular-de-san-fernando",
+        "distance": 8.4,
+        "distances": 1,
+        "address": "",
+        "location": "San Fernando de Henares",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "clubatletismosanfernando.blogspot.com.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Vuelta a la Casa de Campo 2016",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-madrid-vuelta-a-la-casa-de-campo-2016",
+        "distance": 16.5,
+        "distances": 1,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "outsidecomunicacion.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Dos Leguas Fuente de la Chopera 2016",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "",
+        "slug": "160508-leganes-dos-leguas-fuente-de-la-chopera-2016",
+        "distance": 11,
+        "distances": 1,
+        "address": "",
+        "location": "Legan\u00e9s",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "observon.blogspot.com.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
     },
     {
         "name": "1\u00aa Carrera Popular de Villaverde de Medina",
@@ -1127,6 +1518,52 @@
         "description": ""
     },
     {
+        "name": "Ecotrimad 2016",
+        "date": "14.05.2016",
+        "date_": {
+            "day": "14",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160514"
+        },
+        "time": "",
+        "slug": "160514-buitrago-de-lozoya-ecotrimad-2016",
+        "distance": "Varias distancias",
+        "distances": 1,
+        "address": "",
+        "location": "Buitrago de Lozoya",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "ecotrimad.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Diablues Trail 2016",
+        "date": "14.05.2016",
+        "date_": {
+            "day": "14",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160514"
+        },
+        "time": "",
+        "slug": "160514-los-santos-de-la-humosa-diablues-trail-2016",
+        "distance": "Varias distancias",
+        "distances": 1,
+        "address": "",
+        "location": "Los Santos de la Humosa",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "rockthesport.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "XIV Marat\u00f3n Mart\u00edn Fiz",
         "date": "15.05.2016",
         "date_": {
@@ -1242,6 +1679,75 @@
         "description": ""
     },
     {
+        "name": "Carrera Popular de Alcobendas",
+        "date": "15.05.2016",
+        "date_": {
+            "day": "15",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160515"
+        },
+        "time": "",
+        "slug": "160515-alcobendas-carrera-popular-de-alcobendas",
+        "distance": 5,
+        "distances": 2,
+        "address": "",
+        "location": "Alcobendas",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerapopularalcobendas.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular de Alcobendas",
+        "date": "15.05.2016",
+        "date_": {
+            "day": "15",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160515"
+        },
+        "time": "",
+        "slug": "160515-alcobendas-carrera-popular-de-alcobendas",
+        "distance": 10,
+        "distances": 2,
+        "address": "",
+        "location": "Alcobendas",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerapopularalcobendas.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Trail Madrid City",
+        "date": "15.05.2016",
+        "date_": {
+            "day": "15",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160515"
+        },
+        "time": "",
+        "slug": "160515-san-sebastian-de-los-reyes-trail-madrid-city",
+        "distance": "Varias distancias",
+        "distances": 1,
+        "address": "",
+        "location": "San Sebasti\u00e1n de los Reyes",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "trail-madrid.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "V Compressport Trail Menorca Cam\u00ed de Cavalls",
         "date": "20.05.2016",
         "date_": {
@@ -1283,6 +1789,29 @@
         "province": "Santa Cruz de Tenerife",
         "region": "Canarias",
         "web": "http:\/\/www.gesportcanarias.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular Psicolog\u00eda por la Salud 2016",
+        "date": "21.05.2016",
+        "date_": {
+            "day": "21",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160521"
+        },
+        "time": "",
+        "slug": "160521-pozuelo-de-alarcon-carrera-popular-psicologia-por-la-salud-2016",
+        "distance": 6.6,
+        "distances": 1,
+        "address": "",
+        "location": "Pozuelo de Alarc\u00f3n",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "copmadrid.org",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -1357,7 +1886,7 @@
         "description": "El precio de la inscripci\u00f3n es de 10,60 \u20ac.<br>"
     },
     {
-        "name": "IX Carrera Liberty",
+        "name": "I Combi-2 Mejorada",
         "date": "22.05.2016",
         "date_": {
             "day": "22",
@@ -1367,14 +1896,37 @@
             "yymmdd": "160522"
         },
         "time": "",
-        "slug": "160522-madrid-ix-carrera-liberty",
-        "distance": 10,
+        "slug": "160522-mejorada-del-campo-i-combi-2-mejorada",
+        "distance": 17.5,
         "distances": 1,
-        "address": "C\/ Goya (junto al Palacio de Deportes)",
+        "address": "",
+        "location": "Mejorada del Campo",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "inscripcionesdeportivas.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "XXIV Carrera Popular Mar\u00eda Auxiliadora",
+        "date": "22.05.2016",
+        "date_": {
+            "day": "22",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160522"
+        },
+        "time": "",
+        "slug": "160522-madrid-xxiv-carrera-popular-maria-auxiliadora",
+        "distance": "Varias distancias",
+        "distances": 1,
+        "address": "",
         "location": "Madrid",
         "province": "Madrid",
         "region": "Madrid, Comunidad de",
-        "web": "http:\/\/www.carreraliberty.es",
+        "web": "atletismomadrid.com",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -1518,6 +2070,167 @@
         "description": ""
     },
     {
+        "name": "V Duxpah Trofeo Autocarpe",
+        "date": "22.05.2016",
+        "date_": {
+            "day": "22",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160522"
+        },
+        "time": "",
+        "slug": "160522-alcala-de-henares-v-duxpah-trofeo-autocarpe",
+        "distance": "3\/17\/2,5 km",
+        "distances": 1,
+        "address": "",
+        "location": "Alcal\u00e1 de Henares",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "complutumtriatlon.org",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "VIII Carrera por la Paz",
+        "date": "22.05.2016",
+        "date_": {
+            "day": "22",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160522"
+        },
+        "time": "",
+        "slug": "160522-fuenlabrada-viii-carrera-por-la-paz",
+        "distance": 5,
+        "distances": 2,
+        "address": "",
+        "location": "Fuenlabrada",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "mpdl.org",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "VIII Carrera por la Paz",
+        "date": "22.05.2016",
+        "date_": {
+            "day": "22",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160522"
+        },
+        "time": "",
+        "slug": "160522-fuenlabrada-viii-carrera-por-la-paz",
+        "distance": 10,
+        "distances": 2,
+        "address": "",
+        "location": "Fuenlabrada",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "mpdl.org",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular contra la Laminopat\u00eda",
+        "date": "22.05.2016",
+        "date_": {
+            "day": "22",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160522"
+        },
+        "time": "",
+        "slug": "160522-madrid-carrera-popular-contra-la-laminopatia",
+        "distance": 5,
+        "distances": 1,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carreracontralalaminopatia.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular Ciudad de Pozuelo",
+        "date": "22.05.2016",
+        "date_": {
+            "day": "22",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160522"
+        },
+        "time": "",
+        "slug": "160522-pozuelo-de-alarcon-carrera-popular-ciudad-de-pozuelo",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Pozuelo de Alarc\u00f3n",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerapozuelo.deporticket.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Cross Popular Club Amigos 2016",
+        "date": "22.05.2016",
+        "date_": {
+            "day": "22",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160522"
+        },
+        "time": "",
+        "slug": "160522-alcorcon-cross-popular-club-amigos-2016",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Alcorc\u00f3n",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "grupoamas.org",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "IX Carrera Liberty",
+        "date": "22.05.2016",
+        "date_": {
+            "day": "22",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160522"
+        },
+        "time": "09:00",
+        "slug": "160522-madrid-ix-carrera-liberty",
+        "distance": 10,
+        "distances": 1,
+        "address": "C\/ Goya (junto al Palacio de Deportes)",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "http:\/\/www.carreraliberty.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "FestiRun Elche",
         "date": "22.05.2016",
         "date_": {
@@ -1582,6 +2295,98 @@
         "province": "Valladolid",
         "region": "Castilla y Le\u00f3n",
         "web": "http:\/\/www.runvasport.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Trail de Canencia",
+        "date": "28.05.2016",
+        "date_": {
+            "day": "28",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160528"
+        },
+        "time": "",
+        "slug": "160528-canencia-trail-de-canencia",
+        "distance": 72,
+        "distances": 1,
+        "address": "",
+        "location": "Canencia",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "seveneight.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Juntos contra el C\u00e1ncer",
+        "date": "28.05.2016",
+        "date_": {
+            "day": "28",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160528"
+        },
+        "time": "",
+        "slug": "160528-camarma-de-esteruelas-juntos-contra-el-cancer",
+        "distance": 4,
+        "distances": 1,
+        "address": "",
+        "location": "Camarma de Esteruelas",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "inscripcionesdeportivas.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera contra la violencia de g\u00e9nero 2016",
+        "date": "28.05.2016",
+        "date_": {
+            "day": "28",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160528"
+        },
+        "time": "",
+        "slug": "160528-cerceda-carrera-contra-la-violencia-de-genero-2016",
+        "distance": 5,
+        "distances": 1,
+        "address": "",
+        "location": "Cerceda",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "samburiel.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Cross Value Tree 2016",
+        "date": "28.05.2016",
+        "date_": {
+            "day": "28",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160528"
+        },
+        "time": "",
+        "slug": "160528-alcobendas-cross-value-tree-2016",
+        "distance": 5,
+        "distances": 1,
+        "address": "",
+        "location": "Alcobendas",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "crosscapitalatwork.com",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -1674,6 +2479,75 @@
         "province": "Granada",
         "region": "Andaluc\u00eda",
         "web": "http:\/\/www.global-tempo.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular Moraleja de Enmedio 2016",
+        "date": "29.05.2016",
+        "date_": {
+            "day": "29",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160529"
+        },
+        "time": "",
+        "slug": "160529-moraleja-de-enmedio-carrera-popular-moraleja-de-enmedio-2016",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Moraleja de Enmedio",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerapopularmoraleja.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Cross Popular Paracuellos 2016",
+        "date": "29.05.2016",
+        "date_": {
+            "day": "29",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160529"
+        },
+        "time": "",
+        "slug": "160529-paracuellos-de-jarama-cross-popular-paracuellos-2016",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Paracuellos de Jarama",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "paracuellosdejarama.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Marcha por la Salud Mental 2016",
+        "date": "29.05.2016",
+        "date_": {
+            "day": "29",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160529"
+        },
+        "time": "",
+        "slug": "160529-madrid-marcha-por-la-salud-mental-2016",
+        "distance": "Varias distancias",
+        "distances": 1,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerasaludmental.com",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -1932,6 +2806,52 @@
         "description": ""
     },
     {
+        "name": "Legua Correcaminos 2016",
+        "date": "05.06.2016",
+        "date_": {
+            "day": "5",
+            "month": "6",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160605"
+        },
+        "time": "",
+        "slug": "160605-fuenlabrada-legua-correcaminos-2016",
+        "distance": 5.8,
+        "distances": 2,
+        "address": "",
+        "location": "Fuenlabrada",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerascorrecaminos.org",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Legua Correcaminos 2016",
+        "date": "05.06.2016",
+        "date_": {
+            "day": "5",
+            "month": "6",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160605"
+        },
+        "time": "",
+        "slug": "160605-fuenlabrada-legua-correcaminos-2016",
+        "distance": 10,
+        "distances": 2,
+        "address": "",
+        "location": "Fuenlabrada",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerascorrecaminos.org",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "Carrera del Medio Ambiente ECORUN 2016",
         "date": "05.06.2016",
         "date_": {
@@ -2001,6 +2921,29 @@
         "description": "El precio de la inscripci\u00f3n es de 10 \u20ac.<br>"
     },
     {
+        "name": "Carrera Popular de Hortaleza",
+        "date": "05.06.2016",
+        "date_": {
+            "day": "5",
+            "month": "6",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160605"
+        },
+        "time": "",
+        "slug": "160605-madrid-carrera-popular-de-hortaleza",
+        "distance": 5,
+        "distances": 1,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerapopularhortaleza.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "Corre con Todas tus Fuerzas",
         "date": "05.06.2016",
         "date_": {
@@ -2042,6 +2985,29 @@
         "province": "Madrid",
         "region": "Madrid, Comunidad de",
         "web": "http:\/\/www.correcontodastusfuerzas.com\/",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Legua Nocturna Zagros",
+        "date": "10.06.2016",
+        "date_": {
+            "day": "10",
+            "month": "6",
+            "year": "16",
+            "weekday": "5",
+            "yymmdd": "160610"
+        },
+        "time": "",
+        "slug": "160610-alcobendas-legua-nocturna-zagros",
+        "distance": 9.656,
+        "distances": 1,
+        "address": "",
+        "location": "Alcobendas",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "leguanocturna.com",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -2134,6 +3100,52 @@
         "province": "Balears, Illes",
         "region": "Balears, Illes",
         "web": "http:\/\/www.renaultstreetrun.com\/",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Memorial Andr\u00e9s Calder\u00f3n 2016",
+        "date": "11.06.2016",
+        "date_": {
+            "day": "11",
+            "month": "6",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160611"
+        },
+        "time": "",
+        "slug": "160611-madrid-memorial-andres-calderon-2016",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "ateliertime.net",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular de La Cabrera 2016",
+        "date": "11.06.2016",
+        "date_": {
+            "day": "11",
+            "month": "6",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160611"
+        },
+        "time": "",
+        "slug": "160611-15-km-carrera-popular-de-la-cabrera-2016",
+        "distance": "",
+        "distances": 1,
+        "address": "",
+        "location": "15 km",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "g40386.wix.com",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -2254,6 +3266,75 @@
         "description": ""
     },
     {
+        "name": "III Marat\u00f3n de Patinaje",
+        "date": "12.06.2016",
+        "date_": {
+            "day": "12",
+            "month": "6",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160612"
+        },
+        "time": "",
+        "slug": "160612-madrid-iii-maraton-de-patinaje",
+        "distance": 6,
+        "distances": 3,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "maratonpatinajemadrid.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "III Marat\u00f3n de Patinaje",
+        "date": "12.06.2016",
+        "date_": {
+            "day": "12",
+            "month": "6",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160612"
+        },
+        "time": "",
+        "slug": "160612-madrid-iii-maraton-de-patinaje",
+        "distance": 24,
+        "distances": 3,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "maratonpatinajemadrid.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "III Marat\u00f3n de Patinaje",
+        "date": "12.06.2016",
+        "date_": {
+            "day": "12",
+            "month": "6",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160612"
+        },
+        "time": "",
+        "slug": "160612-madrid-iii-maraton-de-patinaje",
+        "distance": 42,
+        "distances": 3,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "maratonpatinajemadrid.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "10K Avil\u00e9s 2016",
         "date": "18.06.2016",
         "date_": {
@@ -2323,6 +3404,29 @@
         "description": ""
     },
     {
+        "name": "Nocturna de Aranjuez 2016",
+        "date": "18.06.2016",
+        "date_": {
+            "day": "18",
+            "month": "6",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160618"
+        },
+        "time": "",
+        "slug": "160618-aranjuez-nocturna-de-aranjuez-2016",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Aranjuez",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "servituraranjuez.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "Lanzarote Winerun 2016",
         "date": "19.06.2016",
         "date_": {
@@ -2341,6 +3445,29 @@
         "province": "Palmas, Las",
         "region": "Canarias",
         "web": "http:\/\/www.lanzarotewinerun.com\/es\/",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Medio Marat\u00f3n San Lorenzo de El Escorial 2016",
+        "date": "19.06.2016",
+        "date_": {
+            "day": "19",
+            "month": "6",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160619"
+        },
+        "time": "",
+        "slug": "160619-san-lorenzo-de-el-escorial-medio-maraton-san-lorenzo-de-el-escorial-2016",
+        "distance": 21,
+        "distances": 1,
+        "address": "",
+        "location": "San Lorenzo de El Escorial",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "agrupaciondeportivasanlorenzo.blogspot.com.es",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -2461,6 +3588,52 @@
         "description": ""
     },
     {
+        "name": "Carrera Popular Sur Empresarial 2016",
+        "date": "25.06.2016",
+        "date_": {
+            "day": "25",
+            "month": "6",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160625"
+        },
+        "time": "",
+        "slug": "160625-getafe-carrera-popular-sur-empresarial-2016",
+        "distance": 5,
+        "distances": 2,
+        "address": "",
+        "location": "Getafe",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerasurempresarial.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "Carrera Popular Sur Empresarial 2016",
+        "date": "25.06.2016",
+        "date_": {
+            "day": "25",
+            "month": "6",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160625"
+        },
+        "time": "",
+        "slug": "160625-getafe-carrera-popular-sur-empresarial-2016",
+        "distance": 10,
+        "distances": 2,
+        "address": "",
+        "location": "Getafe",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "carrerasurempresarial.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "Media Marat\u00f3n de Monta\u00f1a Brieva de Cameros",
         "date": "26.06.2016",
         "date_": {
@@ -2525,6 +3698,29 @@
         "province": "Asturias",
         "region": "Asturias, Principado de",
         "web": "http:\/\/www.renaultstreetrun.com\/",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "15K Villa de Madrid Activa",
+        "date": "26.06.2016",
+        "date_": {
+            "day": "26",
+            "month": "6",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160626"
+        },
+        "time": "",
+        "slug": "160626-madrid-15k-villa-de-madrid-activa",
+        "distance": 15,
+        "distances": 1,
+        "address": "",
+        "location": "Madrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "madrid15km.es",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -2942,6 +4138,29 @@
         "phone": "",
         "organizer": "",
         "description": "El precio de la inscripci\u00f3n es de 15 \u20ac.<br>"
+    },
+    {
+        "name": "Carrera del Aire 2016",
+        "date": "16.10.2016",
+        "date_": {
+            "day": "16",
+            "month": "10",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "161016"
+        },
+        "time": "",
+        "slug": "161016-getafe-carrera-del-aire-2016",
+        "distance": 10,
+        "distances": 1,
+        "address": "",
+        "location": "Getafe",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "ticketsport.es",
+        "phone": "",
+        "organizer": "",
+        "description": ""
     },
     {
         "name": "Carrera Renault Street Run BCN",
