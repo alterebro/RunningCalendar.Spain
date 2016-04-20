@@ -1288,6 +1288,29 @@
         "description": ""
     },
     {
+        "name": "III Legua Solidaria Rivas con el Sahara",
+        "date": "21.05.2016",
+        "date_": {
+            "day": "21",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160521"
+        },
+        "time": "10:00",
+        "slug": "160521-rivas-vaciamadrid-iii-legua-solidaria-rivas-con-el-sahara",
+        "distance": 5.572,
+        "distances": 1,
+        "address": "Frente al auditorio Miguel Rios",
+        "location": "Rivas Vaciamadrid",
+        "province": "Madrid",
+        "region": "Madrid, Comunidad de",
+        "web": "",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "Correr sin GLU10",
         "date": "22.05.2016",
         "date_": {
@@ -2640,6 +2663,75 @@
         "province": "Santa Cruz de Tenerife",
         "region": "Canarias",
         "web": "http:\/\/www.ultradelnordeste.net",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "XVI Carrera Popular El Arenal",
+        "date": "30.07.2016",
+        "date_": {
+            "day": "30",
+            "month": "7",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160730"
+        },
+        "time": "18:00",
+        "slug": "160730-el-arenal-xvi-carrera-popular-el-arenal",
+        "distance": 8.3,
+        "distances": 1,
+        "address": "",
+        "location": "El Arenal",
+        "province": "\u00c1vila",
+        "region": "Castilla y Le\u00f3n",
+        "web": "http:\/\/www.cparenal.com",
+        "phone": "635361790",
+        "organizer": "",
+        "description": "El precio de la inscripci\u00f3n es de 7,60 \u20ac.<br>"
+    },
+    {
+        "name": "I La Carrera del Higo",
+        "date": "06.08.2016",
+        "date_": {
+            "day": "6",
+            "month": "8",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160806"
+        },
+        "time": "",
+        "slug": "160806-poyales-del-hoyo-i-la-carrera-del-higo",
+        "distance": 4,
+        "distances": 2,
+        "address": "",
+        "location": "Poyales del Hoyo",
+        "province": "\u00c1vila",
+        "region": "Castilla y Le\u00f3n",
+        "web": "http:\/\/www.carreradelhigo.blogspot.com.es\/",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "I La Carrera del Higo",
+        "date": "06.08.2016",
+        "date_": {
+            "day": "6",
+            "month": "8",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160806"
+        },
+        "time": "",
+        "slug": "160806-poyales-del-hoyo-i-la-carrera-del-higo",
+        "distance": 8,
+        "distances": 2,
+        "address": "",
+        "location": "Poyales del Hoyo",
+        "province": "\u00c1vila",
+        "region": "Castilla y Le\u00f3n",
+        "web": "http:\/\/www.carreradelhigo.blogspot.com.es\/",
         "phone": "",
         "organizer": "",
         "description": ""
