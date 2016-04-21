@@ -483,6 +483,29 @@
         "description": ""
     },
     {
+        "name": "Ultratrail 7 Playas 2016",
+        "date": "01.05.2016",
+        "date_": {
+            "day": "1",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160501"
+        },
+        "time": "",
+        "slug": "san-fernando-ultratrail-7-playas-2016",
+        "distance": 8,
+        "distances": 1,
+        "address": "",
+        "location": "San Fernando",
+        "province": "C\u00e1diz",
+        "region": "Andaluc\u00eda",
+        "web": "http:\/\/www.lobosybuitres.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "Cursa Les Tortugues",
         "date": "01.05.2016",
         "date_": {
@@ -3583,6 +3606,29 @@
         "province": "Madrid",
         "region": "Comunidad de Madrid",
         "web": "http:\/\/www.rockthesport.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
+        "name": "VII Carrera Los Toru\u00f1os",
+        "date": "14.05.2016",
+        "date_": {
+            "day": "14",
+            "month": "5",
+            "year": "16",
+            "weekday": "6",
+            "yymmdd": "160514"
+        },
+        "time": "",
+        "slug": "el-puerto-de-santa-maria-vii-carrera-los-torunos",
+        "distance": 9,
+        "distances": 1,
+        "address": "",
+        "location": "El Puerto de Santa Mar\u00eda",
+        "province": "C\u00e1diz",
+        "region": "Andaluc\u00eda",
+        "web": "http:\/\/www.correrenandalucia.com",
         "phone": "",
         "organizer": "",
         "description": ""
@@ -8786,70 +8832,24 @@
         "description": ""
     },
     {
-        "name": "Zaragoza 111",
-        "date": "06.07.2016",
+        "name": "V Cross Color Roquetas",
+        "date": "02.07.2016",
         "date_": {
-            "day": "6",
-            "month": "7",
-            "year": "16",
-            "weekday": "3",
-            "yymmdd": "160706"
-        },
-        "time": "",
-        "slug": "belchite-zaragoza-111",
-        "distance": "Varias distancias",
-        "distances": 1,
-        "address": "",
-        "location": "Belchite",
-        "province": "Zaragoza",
-        "region": "Arag\u00f3n",
-        "web": "http:\/\/www.zaragoza111.com",
-        "phone": "",
-        "organizer": "ZITOWAY Sport & Adventure",
-        "description": ""
-    },
-    {
-        "name": "Zaragoza 111",
-        "date": "07.07.2016",
-        "date_": {
-            "day": "7",
-            "month": "7",
-            "year": "16",
-            "weekday": "4",
-            "yymmdd": "160707"
-        },
-        "time": "",
-        "slug": "zaragoza-zaragoza-111",
-        "distance": "Varias distancias",
-        "distances": 1,
-        "address": "",
-        "location": "Zaragoza",
-        "province": "Zaragoza",
-        "region": "Arag\u00f3n",
-        "web": "http:\/\/www.zaragoza111.com",
-        "phone": "",
-        "organizer": "",
-        "description": ""
-    },
-    {
-        "name": "X Carrera San Lorenzo Rock and Run 2016",
-        "date": "16.07.2016",
-        "date_": {
-            "day": "16",
+            "day": "2",
             "month": "7",
             "year": "16",
             "weekday": "6",
-            "yymmdd": "160716"
+            "yymmdd": "160702"
         },
-        "time": "",
-        "slug": "san-lorenzo-de-el-escorial-x-carrera-san-lorenzo-rock-and-run-2016",
-        "distance": 7.77,
+        "time": "09:00",
+        "slug": "aguadulce-v-cross-color-roquetas",
+        "distance": 5,
         "distances": 1,
         "address": "",
-        "location": "San Lorenzo de El Escorial",
-        "province": "Madrid",
-        "region": "Comunidad de Madrid",
-        "web": "https:\/\/www.rockthesport.com\/evento\/x-carrera-san-lorenzo-rock-and-run-2016",
+        "location": "Aguadulce",
+        "province": "Almer\u00eda",
+        "region": "Andaluc\u00eda",
+        "web": "http:\/\/www.todofondo.net",
         "phone": "",
         "organizer": "",
         "description": ""
