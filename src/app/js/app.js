@@ -28,9 +28,7 @@ var vd = {
 		{'value' : "42", 		'text' : "Superior a Maratón"}
 	],
 	current_item : {},
-
 	filtered_items : null,
-
 }
 
 var vm = new Vue({
