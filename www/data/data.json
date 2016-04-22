@@ -3312,6 +3312,29 @@
         "description": ""
     },
     {
+        "name": "XXI Medio Marat\u00f3n de Albacete",
+        "date": "08.05.2016",
+        "date_": {
+            "day": "8",
+            "month": "5",
+            "year": "16",
+            "weekday": "7",
+            "yymmdd": "160508"
+        },
+        "time": "09:30",
+        "slug": "albacete-xxi-medio-maraton-de-albacete",
+        "distance": 21,
+        "distances": 1,
+        "address": "",
+        "location": "Albacete",
+        "province": "Albacete",
+        "region": "Castilla - La Mancha",
+        "web": "http:\/\/www.mediomaratonalbacete.com",
+        "phone": "",
+        "organizer": "",
+        "description": ""
+    },
+    {
         "name": "XIII Carrera de Monta\u00f1a Valle del Almanzora",
         "date": "08.05.2016",
         "date_": {
@@ -8689,52 +8712,6 @@
         "province": "Madrid",
         "region": "Comunidad de Madrid",
         "web": "http:\/\/www.servituraranjuez.com",
-        "phone": "",
-        "organizer": "",
-        "description": ""
-    },
-    {
-        "name": "Cursa de Sant Joan Desp\u00ed",
-        "date": "18.06.2016",
-        "date_": {
-            "day": "18",
-            "month": "6",
-            "year": "16",
-            "weekday": "6",
-            "yymmdd": "160618"
-        },
-        "time": "",
-        "slug": "sant-joan-despi-5-cursa-de-sant-joan-despi",
-        "distance": 5,
-        "distances": 2,
-        "address": "",
-        "location": "Sant Joan Desp\u00ed",
-        "province": "Barcelona",
-        "region": "Catalu\u00f1a",
-        "web": "http:\/\/www.cursapopular.es",
-        "phone": "",
-        "organizer": "",
-        "description": ""
-    },
-    {
-        "name": "Cursa de Sant Joan Desp\u00ed",
-        "date": "18.06.2016",
-        "date_": {
-            "day": "18",
-            "month": "6",
-            "year": "16",
-            "weekday": "6",
-            "yymmdd": "160618"
-        },
-        "time": "",
-        "slug": "sant-joan-despi-10-cursa-de-sant-joan-despi",
-        "distance": 10,
-        "distances": 2,
-        "address": "",
-        "location": "Sant Joan Desp\u00ed",
-        "province": "Barcelona",
-        "region": "Catalu\u00f1a",
-        "web": "http:\/\/www.cursapopular.es",
         "phone": "",
         "organizer": "",
         "description": ""
