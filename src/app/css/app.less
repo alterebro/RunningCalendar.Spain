@@ -4,6 +4,17 @@
 @color-primary 			: #de4d2d; 	// Links and Buttons Color
 @color-neutral 			: #a0a0a0; 	// Neutral Grey
 
+@mobile-breakpoint 		: 420;		// width to filter mobile devices
+@desktop-breakpoint 	: 960; 		// width to fire desktop layout filtering
+
+// --------------------------------------------
+// Media Queries
+@mobile 	: ~"all and (max-width: @{mobile-breakpoint}px)"; 	// Default
+@non-mobile : ~"all and (min-width: @{mobile-breakpoint}px)"; 	// Matchs both @tablet and @desktop
+@tablet 	: ~"all and (min-width: @{mobile-breakpoint}px) and (max-width: @{desktop-breakpoint}px)";
+@desktop 	: ~"all and (min-width: @{desktop-breakpoint}px)";
+
+
 // --------------------------------------------
 // Global
 html, body {
@@ -411,6 +422,22 @@ dl#race-list {
 			}
 			em {
 				font-style: normal;
+			}
+		}
+
+		@media @mobile {
+			h3 {
+				float: none;
+				max-width: none;
+			}
+			p {
+				float: none;
+				text-align: left;
+				max-width: none;
+				min-height: 18px;
+				br {
+					display: none;
+				}
 			}
 		}
 	}
