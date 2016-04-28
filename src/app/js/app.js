@@ -113,6 +113,7 @@ var vm = new Vue({
 		getJSON: function () {
 			var self = this;
 			var xhr = new XMLHttpRequest();
+			xhr.overrideMimeType("application/json");
 			xhr.open('GET', json_data_file, true);
 			xhr.onreadystatechange = function() {
 				if (this.readyState === 4) {
