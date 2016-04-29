@@ -96,6 +96,7 @@
 		<span v-if="selected_date"> &middot; {{ selected_date | month_yymm }}</span>
 		<small v-if="selected_distance | distanceValue">({{ selected_distance | distanceValue }})</small>
 	</h2>
+	<h3 v-if="filtering">Filtrando Resultados...</h3>
 	<h3 v-if="filtered_items.length == 0">Ningún resultado :(</h3>
 	<dl id="race-list">
 		<template v-for="item in filtered_items">

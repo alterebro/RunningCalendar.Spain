@@ -28,7 +28,8 @@ var vd = {
 	],
 	current_item : {},
 	filtered_items : null,
-	loading : true
+	loading : true,
+	filtering : false
 }
 
 var vm = new Vue({
@@ -86,6 +87,7 @@ var vm = new Vue({
 			return output;
 		},
 		filtered_items : function() {
+			this.filtering = true;
 			var check_dist = function(origin, target) {
 				var segment = target.split(',');
 				if (segment.length < 2 && !segment[0]) { return false; }
@@ -105,6 +107,7 @@ var vm = new Vue({
 
 				if ( remove != true ) {  output.push( item ); }
 			}
+			this.filtering = false;
 			return output;
 		}
 	},
